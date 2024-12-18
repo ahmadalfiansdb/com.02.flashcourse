@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6200EE</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_dark_light">#3700B3CC</color>
+    <color name="primary_dark_dark">#212121</color> <!-- Add this line -->
+    <color name="accent">#03DAC5</color>
+    <color name="accent_dark">#03DAC5CC</color> <!-- Add this line -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color> <!-- Add this line -->
+    <color name="background">#FFFFFF</color>
+</resources>
+
+
+
+
+
